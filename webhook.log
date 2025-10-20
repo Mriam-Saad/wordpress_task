@@ -1,0 +1,248 @@
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
+
+---
+Array
+(
+    [Host] => localhost:8888
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "macOS"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => wordpress_test_cookie=WP+Cookie+check; wordpress_logged_in_9ec2423016e37bd5022266a1bf8b1ddc=admin%7C1761982965%7CiSxkiDJDeYCS5Ui9Gj1TOJc4XsCuYihcxW7mpYRC9GI%7C79588d912f2e5794915dc2ead93a8e7712b7beb19f2c0d208bd3cf69035640f2; wp-settings-1=posts_list_mode%3Dlist; wp-settings-time-1=1760777185; _ga=GA1.1.238368109.1738683430; _v__chartbeat3=D94W93D0xMsACYBRyd; utag_main=v_id:0194d19bd7030012babb03c1686d05075001706d00ac2$_sn:2$_se:1$_ss:1$_st:1738693289115$vapi_domain:localhost$ses_id:1738691489115%3Bexp-session$_pn:1%3Bexp-session$_prevpage:%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D9%85%D8%B1%D9%81%D9%88%D8%B6%3Bexp-1738695089118; _cb=2h_NcbVEIjCjOZ98; _chartbeat2=.1738683456224.1738691489165.1.C-jpYcBZ2KwXC-CK6qBNIA7zBdabjH.1; AMCV_518ABC7455E462B97F000101%40AdobeOrg=-408604571%7CMCIDTS%7C20124%7CMCMID%7C69418072448346500014372161523124394633%7CMCAAMLH-1739296289%7C6%7CMCAAMB-1739296289%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738698689s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20131%7CvVersion%7C4.6.0; _ga_03YYQYPPKQ=GS1.1.1738691489.2.0.1738691489.0.0.0; _ga_KHGZWNPGN9=GS1.1.1738691488.2.1.1738691505.0.0.0
+)
+
+===
