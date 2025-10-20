@@ -18,6 +18,8 @@ https://webhook.site/#!/view/34452fdd-2903-49d5-8c56-dd3ff6ad1e91/1c2cd996-522d-
 
 
 Please find the database file in the root folder called (database-backup.gz) 
-
+The admin account credentials are:
+- admin
+- task123
 
 
